@@ -1,0 +1,108 @@
+{
+  "roles": [
+    {
+      "roleId": 1,
+      "role": "Developer",
+      "id": "49e0"
+    },
+    {
+      "roleId": 2,
+      "role": "Admin",
+      "id": "2ee2"
+    },
+    {
+      "roleId": 3,
+      "role": "User",
+      "id": "a005"
+    }
+  ],
+  "designation": [
+    {
+      "designationId": 1,
+      "designation": "Designer",
+      "id": "90f0"
+    },
+    {
+      "designationId": 2,
+      "designation": "Developer",
+      "id": "54fd"
+    },
+    {
+      "designationId": 3,
+      "designation": "Back end developer",
+      "id": "f6e1"
+    }
+  ],
+  "client": [
+    {
+      "id": "625a",
+      "clientId": 1,
+      "contactPersonName": "John",
+      "companyName": "ABC3334",
+      "address": "123 Main Street",
+      "city": "New York",
+      "pincode": "10001",
+      "state": "NY",
+      "employeeStrength": 50,
+      "gstNo": "1234567890",
+      "contactNo": "1234567890",
+      "regNo": "1234567890"
+    },
+    {
+      "id": "20d4",
+      "clientId": 2,
+      "contactPersonName": "TG",
+      "companyName": "TG",
+      "address": "333 TG TG",
+      "city": "TG",
+      "pincode": "33333",
+      "state": "TG",
+      "employeeStrength": 33,
+      "gstNo": "33333333",
+      "contactNo": "3333333",
+      "regNo": "33333"
+    },
+    {
+      "id": "a5ad",
+      "clientId": 3,
+      "contactPersonName": "Thanks God",
+      "companyName": "GGGGG",
+      "address": "GGGG",
+      "city": "GGGG",
+      "pincode": "GGGG",
+      "state": "GGGG",
+      "employeeStrength": "33",
+      "gstNo": "33",
+      "contactNo": "333",
+      "regNo": "33"
+    },
+    {
+      "id": "b72b",
+      "clientId": 4,
+      "contactPersonName": "Thanks God",
+      "companyName": "GGGGG",
+      "address": "GGGG",
+      "city": "GGGG",
+      "pincode": "GGGG",
+      "state": "GGGG",
+      "employeeStrength": "33",
+      "gstNo": "33",
+      "contactNo": "33",
+      "regNo": "33"
+    },
+    {
+      "id": "",
+      "clientId": 0,
+      "contactPersonName": "God1",
+      "companyName": "1",
+      "address": "1",
+      "city": "1",
+      "pincode": "1",
+      "state": "1",
+      "employeeStrength": "1",
+      "gstNo": "1",
+      "contactNo": "God1",
+      "regNo": "1"
+    }
+  ]
+}

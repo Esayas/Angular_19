@@ -33,11 +33,76 @@
       "id": "f6e1"
     }
   ],
+  "clientproject": [
+    {
+      "id": 3,
+      "projectName": "TGTGTG333",
+      "startDate": "2025-07-02",
+      "expectedEndDate": "2025-07-15",
+      "leadByEmpId": "",
+      "completedDate": "2025-07-04",
+      "contactPerson": "Thanks God",
+      "contactPersonContactNo": "09145267",
+      "totalEmpWorking": "2333",
+      "projectCost": "333",
+      "projectDetails": "333",
+      "contactPersonEmailId": "newesayas@yahoo.com",
+      "clientId": "1"
+    },
+    {
+      "id": 4,
+      "projectName": "xyv",
+      "startDate": "2025-07-01",
+      "expectedEndDate": "2025-07-11",
+      "leadByEmpId": "1",
+      "completedDate": "2025-07-01",
+      "contactPerson": "sss",
+      "contactPersonContactNo": "ss",
+      "totalEmpWorking": "2",
+      "projectCost": "2",
+      "projectDetails": "2",
+      "contactPersonEmailId": "newesayas@yahoo.com",
+      "clientId": ""
+    },
+    {
+      "id": 5,
+      "projectName": "ggg",
+      "startDate": "2025-07-01",
+      "expectedEndDate": "2025-07-09",
+      "leadByEmpId": "1",
+      "completedDate": "2025-07-09",
+      "contactPerson": "ggg",
+      "contactPersonContactNo": "g",
+      "totalEmpWorking": "3",
+      "projectCost": "3",
+      "projectDetails": "3",
+      "contactPersonEmailId": "newesayas@yahoo.com",
+      "clientId": "1"
+    }
+  ],
+  "employee": [
+    {
+      "empId": "1",
+      "empName": "John",
+      "empCode": "123456",
+      "empDesignation": "Developer",
+      "role": "Admin",
+      "id": "20d4"
+    },
+    {
+      "empId": "2",
+      "empName": "TG",
+      "empCode": "153456",
+      "empDesignation": "Designer",
+      "role": "User",
+      "id": "20r4"
+    }
+  ],
   "client": [
     {
       "id": "625a",
       "clientId": 1,
-      "contactPersonName": "John",
+      "contactPersonName": "Johnt",
       "companyName": "ABC3334",
       "address": "123 Main Street",
       "city": "New York",
@@ -89,20 +154,6 @@
       "gstNo": "33",
       "contactNo": "33",
       "regNo": "33"
-    },
-    {
-      "id": "",
-      "clientId": 0,
-      "contactPersonName": "God1",
-      "companyName": "1",
-      "address": "1",
-      "city": "1",
-      "pincode": "1",
-      "state": "1",
-      "employeeStrength": "1",
-      "gstNo": "1",
-      "contactNo": "God1",
-      "regNo": "1"
     }
   ]
 }
